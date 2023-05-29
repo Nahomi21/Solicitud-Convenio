@@ -1,0 +1,55 @@
+table {
+    border-collapse: collapse;
+    max-width: 800px;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+  
+th, td {
+    border: 1px solid black;
+    text-align: left;
+    padding: 8px;
+    max-width: 1000px;
+}
+  
+th{
+  background-color: #ddd;
+}
+
+.tds{
+  padding-right: 100px;
+  padding-bottom: 20px;
+  padding-top: 0;
+}
+
+.fechaSolic{
+  padding-top: 10px;
+  padding-bottom: 50px;
+  padding-right: 100px;
+  
+}
+.cargo{
+  padding-top: 10px;
+  padding-bottom: 50px;
+  padding-right: 100px;
+}
+
+.firma{
+  padding-top: 0px;
+  padding-bottom: 50px;
+  text-align: center;
+  padding-right: 100px;
+  
+}
+
+.aprovacion{
+  padding-top: 0px;
+  padding-bottom: 50px;
+  text-align: center;
+}
+
+.rector{
+  padding-top: 10px;
+  padding-bottom: 50px;
+  padding-right: 100px;  
+}
